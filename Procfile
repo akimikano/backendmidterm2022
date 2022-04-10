@@ -1,2 +1,2 @@
 release: python manage.py migrate
-web: gunicorn akimzholdoshbekmidterm.wsgi --log-file=-
+web: gunicorn backendmidterm2022.wsgi --log-file=-
