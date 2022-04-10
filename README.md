@@ -1,4 +1,4 @@
-Project was implemented using Python/Django, Heroku, Postgresql
+Project was implemented using Python/Django, Heroku, Postgresql. Database has one table with items.
 
 To launch project:
 1. Pull master repo
