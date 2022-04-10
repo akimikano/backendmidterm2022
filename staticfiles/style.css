@@ -1,0 +1,13 @@
+.logo {
+    display: inline-block;
+    height: 100px;
+    width: 100px;
+}
+
+.header {
+    display: inline-block;
+}
+
+.item {
+    border: 2px solid #000000;
+}
