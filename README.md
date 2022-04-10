@@ -13,3 +13,5 @@ link to admin page https://backendmidterm2022.herokuapp.com/admin
 admin login: admin
 
 admin password: admin
+
+!(C:/Users/user/Pictures/Screenshots/Снимок экрана (93).png)
